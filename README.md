@@ -10,6 +10,6 @@ python3 sentiment.txt
 
 Le programme va alors apprendre,
 
-puis vous allez rentrer en mode interactif si vous voulez le testez
+puis vous allez rentrer en mode interactif si vous voulez le tester
 
 Marquez une phrase en anglais et il vous dit si c'est positif ou négatif
